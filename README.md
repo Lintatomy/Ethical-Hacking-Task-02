@@ -5,10 +5,7 @@ Service Enumeration
 
 Objective
 
-The purpose of this task is to understand the second phase of Ethical Hacking — Scanning and
-Enumeration.
-In this task, i learned how to identify active hosts, open ports, running services, and basic network
-information using safe and authorized methods.
+The objective of this task was to perform a safe network scan on my own machine using Nmap. The purpose was to identify open ports, running services, and operating system information while understanding how network scanning supports ethical hacking and vulnerability assessment.
 
 
 Part A: Install Nmap --
@@ -108,6 +105,7 @@ Operating system detection helps penetration testers identify the target system 
 Screenshot of operating system detection
 
 <img width="2043" height="770" alt="os detection shot" src="https://github.com/user-attachments/assets/edcd86b1-07e1-4b60-93a7-86e1a4f84019" />
+
 
 
 
@@ -290,7 +288,10 @@ Credential theft
 Remote exploitation
 
 
+
+
 Part F: Scan Analysis --
+
 
 Answers for scan based analysis
 
@@ -313,7 +314,7 @@ If remote access is not needed, I would disable port 22 (SSH). Closing unnecessa
 
 
 
-Part G: Scan Report
+Part G: Scan Report --
 
 Scan Date
 
@@ -383,3 +384,5 @@ Conclusion
 This task helped me understand the scanning and enumeration phase of ethical hacking using Nmap. I learned how to scan my local machine to identify open ports, running services, and operating system information. The scan showed that only port 22 (SSH) was open, which indicates that secure remote access is enabled on the system. Since the remaining ports were closed, the system has a smaller attack surface and is less exposed to potential threats.
 
 I also learned that identifying open ports and services is an important step in penetration testing because it helps security professionals understand which services are available and whether they could be exploited if misconfigured. Researching common network ports improved my understanding of their purposes and the security risks associated with each one. This task also reinforced the importance of performing scans only on authorized systems and following ethical hacking principles. Overall, the exercise provided valuable practical experience with Nmap and demonstrated how regular network scanning can help identify security weaknesses, improve system protection, and support effective vulnerability assessments.
+
+
