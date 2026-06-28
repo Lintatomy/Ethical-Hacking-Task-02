@@ -3,6 +3,16 @@ WHITE BAND ASSOCIATES
 Ethical Hacking Task 02: Network Scanning &
 Service Enumeration
 
+
+
+Student Information--
+
+
+Name :- Linta Tomy
+  
+WHITE BAND ASSOCIATES - Ethical Hacking Internship
+
+
 Objective
 
 The objective of this task was to perform a safe network scan on my own machine using Nmap. The purpose was to identify open ports, running services, and operating system information while understanding how network scanning supports ethical hacking and vulnerability assessment.
@@ -395,7 +405,9 @@ Repository Contents include
 * Research Notes.pdf
 
 
-  By
+
+Student Information ----
+
 
    Linta Tomy
   
