@@ -17,6 +17,8 @@ Part A: Install Nmap --
 Step 1: Download Nmap
 
 Windows: https://nmap.org/download.html
+
+
 Install using default settings.ning:
 
 Screenshot of Installation
@@ -55,6 +57,8 @@ Screenshot of scan
 
 
 
+
+
 Part C: Service Version Detection --
 
 Run
@@ -66,6 +70,8 @@ Screenshot of sevice
 <img width="1860" height="846" alt="service shot" src="https://github.com/user-attachments/assets/5c21dbfa-4db2-4e4c-b3ba-65c2655f0764" />
 
 
+
+
 Part D – Operating System Detection --
 
 Run 
@@ -75,6 +81,23 @@ sudo nmap -O localhost
 On Windows use:
 
 nmap -O localhost
+
+
+Answers :-
+
+1. Was the operating system detected?
+Yes, the operating system was successfully detected by Nmap.
+
+
+2. Which OS was identified?
+The scan identified the operating system as Microsoft Windows 11. (If your scan shows Windows 10 or another OS, write the actual result from your Nmap output instead.)
+
+
+3. Why is OS detection useful during penetration testing?
+Operating system detection helps penetration testers identify the target system and understand its configuration. Different operating systems have different services, vulnerabilities, and security features. By knowing the OS, security professionals can choose the appropriate testing methods, identify potential weaknesses, and recommend suitable security measures. It also helps avoid unnecessary or incompatible tests, making the assessment more accurate and efficient.
+
+
+
 
 Screenshot of operating system detection
 
