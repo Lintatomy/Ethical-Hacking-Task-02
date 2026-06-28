@@ -386,3 +386,22 @@ This task helped me understand the scanning and enumeration phase of ethical hac
 I also learned that identifying open ports and services is an important step in penetration testing because it helps security professionals understand which services are available and whether they could be exploited if misconfigured. Researching common network ports improved my understanding of their purposes and the security risks associated with each one. This task also reinforced the importance of performing scans only on authorized systems and following ethical hacking principles. Overall, the exercise provided valuable practical experience with Nmap and demonstrated how regular network scanning can help identify security weaknesses, improve system protection, and support effective vulnerability assessments.
 
 
+
+
+Repository Contents include
+
+* Nmap Scan Report.pdf
+
+* Research Notes.pdf
+
+
+  By
+
+   Linta Tomy
+  
+  WHITE BAND ASSOCIATES - Ethical Hacking Internship
+  
+  Task -  Ethical Hacking Task 02
+  
+  Topic - Network Scanning & Service Enumeration
+  
