@@ -86,14 +86,20 @@ nmap -O localhost
 Answers :-
 
 1. Was the operating system detected?
+
+   
 Yes, the operating system was successfully detected by Nmap.
 
 
 2. Which OS was identified?
+
+
 The scan identified the operating system as Microsoft Windows 11. (If your scan shows Windows 10 or another OS, write the actual result from your Nmap output instead.)
 
 
 3. Why is OS detection useful during penetration testing?
+
+
 Operating system detection helps penetration testers identify the target system and understand its configuration. Different operating systems have different services, vulnerabilities, and security features. By knowing the OS, security professionals can choose the appropriate testing methods, identify potential weaknesses, and recommend suitable security measures. It also helps avoid unnecessary or incompatible tests, making the assessment more accurate and efficient.
 
 
